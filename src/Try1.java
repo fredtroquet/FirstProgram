@@ -15,6 +15,7 @@ public class Try1 {
         System.out.println(3 * 4);
         System.out.println(3 * 4.5);
         System.out.println(args[0]);
+        System.out.println(3+5);
 
         int num = 10;
         num = num + 1;
